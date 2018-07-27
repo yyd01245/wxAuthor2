@@ -1,0 +1,6 @@
+<!--pages/author2/author2.wxml-->
+<view class="container">
+  <!-- <view class="viewName" style="background-color:#fbf9fe"> -->
+    <button size="primarySize" type="primary"  bindtap="scanCode"> 扫描二维码 </button>
+  <!-- </view> -->
+</view>
